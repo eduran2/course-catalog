@@ -1,7 +1,6 @@
 /* Typography */
 
 body {
-    background: #000;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -12,7 +11,7 @@ body {
 }
 
 /* Content Containers */
-.cd-gallery li.mix {
+.cd-gallery li {
     background: white;
     padding: 1em;
 }
@@ -28,7 +27,7 @@ body {
 }
 
 .list li.mix p {
-    color: #fff;
+    display: none;
 }
 
 
