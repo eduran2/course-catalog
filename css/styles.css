@@ -76,3 +76,6 @@ body {
     color: white;
 }
 
+.no-touch .cd-tab-filter a:hover {
+    color: #a10022;
+}
