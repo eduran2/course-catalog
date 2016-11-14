@@ -30,5 +30,49 @@ body {
     display: none;
 }
 
+.cd-filter {
+    color: #a10022;
+}
 
+.cd-filter::before {
+    background: black;
+}
+
+.cd-filter .cd-close {
+    background: #a10022;
+    color: white;
+}
+
+.cd-filter-trigger {
+    color: #a10022;
+}
+
+.cd-filter-block h4 {
+    color: black;
+}
+
+.cd-tab-filter-wrapper {
+    background: black;
+}
+
+.cd-tab-filter a.selected {
+    color: #a10022;
+}
+
+.cd-tab-filter.is-open::after {
+    color: white;
+}
+
+.cd-tab-filter a {
+    color: white;
+}
+
+.no-touch .cd-filter .cd-close:hover {
+    color: #a10022;
+    background: white;
+}
+
+.no-touch .cd-filter-trigger:hover {
+    color: white;
+}
 
