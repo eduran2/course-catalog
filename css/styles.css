@@ -79,3 +79,44 @@ body {
 .no-touch .cd-tab-filter a:hover {
     color: #a10022;
 }
+
+.cd-header h1{
+    font-family: 'Playfair Display SC', serif;
+    display: block;
+    text-align: center;
+    font-size: 5em;
+    color: white;
+    background: rgba(0,0,0,.5);
+}
+
+.cd-header {
+    background: url(https://goo.gl/hDvW9n);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 -30em;
+}
+
+section h1 {
+    font-family: 'Playfair Display SC', serif;
+    text-align: center;
+    font-style: italic;
+    font-size: 2.5em;
+    background: #e7e7e7;
+    color: #a10022;
+}
+
+section h3 {
+    font-family: 'Playfair Display SC', serif;
+    text-align: center;
+    padding: .5em;
+    font-size: 1.5em;
+    font-style: bold;
+    color: black;
+}
+
+section p {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 1.3em;
+    padding: 2em;
+    background: #e7e7e7;
+}
