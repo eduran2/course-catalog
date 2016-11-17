@@ -90,10 +90,10 @@ body {
 }
 
 .cd-header {
-    background: url(https://goo.gl/2Ggjmz);
+    background: url(https://goo.gl/9Ucl13);
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 0 -30em;
+    background-repeat: repeat;
+    
 }
 
 section h1 {
